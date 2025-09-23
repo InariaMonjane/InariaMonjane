@@ -190,32 +190,32 @@ Soluções Tecnológicas Assistivas<br/>
 ### **👩‍🏫 Professora de Programação e Tecnologias Digitais**
 **🏢 Algorithmics International School / NEFC Projects Limitada** • *2025 - Presente*
 
-- 🎯 **Ensino especializado:** Knight (codificação gamificada), programação visual, HTML/CSS, Python
-- 👶 **Público alvo:** Crianças e adolescentes em iniciação à programação
-- 🎮 **Metodologia inovadora:** Gamificação para tornar o aprendizado divertido
-- 📈 **Impacto:** Formando a próxima geração de desenvolvedores
+🎯 **Ensino especializado:** Knight (codificação gamificada), programação visual, HTML/CSS, Python
+👶 **Público alvo:** Crianças e adolescentes em iniciação à programação
+🎮 **Metodologia inovadora:** Gamificação para tornar o aprendizado divertido
+📈 **Impacto:** Formando a próxima geração de desenvolvedores
 
 ---
 
 ### **💻 Programadora Full Stack**
 **🏢 Beefactory** • *2025 - Presente*
 
-- 🐍 **Backend:** Desenvolvimento com Django (Python)
-- ⚛️ **Frontend:** Interfaces modernas com React.js
-- 🔗 **Integração:** APIs externas e serviços terceirizados
-- 🗄️ **Database:** Gestão avançada com PostgreSQL
-- 🔐 **Segurança:** Sistemas de autenticação robustos
-- 📊 **Analytics:** Dashboards administrativos e relatórios automáticos
+🐍 **Backend:** Desenvolvimento com Django (Python)
+⚛️ **Frontend:** Interfaces modernas com React.js
+🔗 **Integração:** APIs externas e serviços terceirizados
+🗄️ **Database:** Gestão avançada com PostgreSQL
+🔐 **Segurança:** Sistemas de autenticação robustos
+📊 **Analytics:** Dashboards administrativos e relatórios automáticos
 
 ---
 
 ### **📊 Analista e Desenvolvedor de Sistemas (Estágio)**
 **🏢 Conselho Municipal de Maputo** • *2024*
 
-- 📈 **Análise de dados:** Desenvolvimento de sistemas de informação municipais
-- 🛠️ **Suporte técnico:** Resolução de problemas de hardware, software e redes
-- ⚙️ **Infraestrutura:** Instalação e configuração de equipamentos de TI
-- 👥 **Atendimento:** Suporte direto a usuários internos da instituição
+📈 **Análise de dados:** Desenvolvimento de sistemas de informação municipais
+🛠️ **Suporte técnico:** Resolução de problemas de hardware, software e redes
+⚙️ **Infraestrutura:** Instalação e configuração de equipamentos de TI
+👥 **Atendimento:** Suporte direto a usuários internos da instituição
 
 </div>
 
