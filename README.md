@@ -51,9 +51,9 @@ print(f"Disponível para oportunidades: {True}")
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=inariamonjane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f39c12&text_color=c9d1d9&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=InariaMonjane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f39c12&text_color=c9d1d9&count_private=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=inariamonjane&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f39c12&currStreakLabel=667eea" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=InariaMonjane&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f39c12&currStreakLabel=667eea" />
 
 </td>
 </tr>
