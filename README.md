@@ -105,7 +105,7 @@ print(f"Disponível para oportunidades: {True}")
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=InariaMonjane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f39c12&text_color=c9d1d9&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inariamonjane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InariaMonjane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
 </div>
 
 <div align="center">
