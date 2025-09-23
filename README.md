@@ -1,15 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=Sofia%20Santos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=Inaria%20Monjane&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=62"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+a+Sofia+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Apaixonada+por+Tecnologia+%E2%9C%A8;Criando+solu%C3%A7%C3%B5es+inovadoras+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+a+Inaria+Monjane+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Apaixonada+por+Tecnologia+%E2%9C%A8;Criando+solu%C3%A7%C3%B5es+inovadoras+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sofiasantos&label=Profile%20views&color=blueviolet&style=flat&logo=github" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sofiasantos?label=Followers&style=social" alt="GitHub Badge" />
-</p>
 
 ---
 
