@@ -272,8 +272,8 @@ Soluções Tecnológicas Assistivas<br/>
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
 <div align="center">
-  <a href="https://github.com/inariamonjane/waste-classification-ai">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inariamonjane&repo=waste-classification-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
+  <a href="https://github.com/InariaMonjane/Emprestimo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InariaMonjane&repo=Emprestimo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/inariamonjane/smart-agriculture-iot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inariamonjane&repo=smart-agriculture-iot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
@@ -286,19 +286,18 @@ Soluções Tecnológicas Assistivas<br/>
 <tr>
 <td width="50%">
 
-### 🛍️ **E-commerce Full Stack**
-**Stack:** Django • React.js • PostgreSQL
+### 💰 **Sistema de Empréstimos**
+**Stack:** Python • Django • PostgreSQL • Bootstrap
 
 **Features:**
-- 🔐 Autenticação JWT completa
-- 🛒 Carrinho de compras dinâmico
-- 💳 Sistema de pagamentos
-- 📊 Dashboard administrativo
-- 📱 Design responsivo
+- 💼 Sistema completo de gestão de empréstimos
+- 👥 Cadastro de clientes e avaliação de crédito
+- 📊 Dashboard com relatórios financeiros
+- 🔐 Autenticação e autorização robusta
+- 📱 Interface responsiva e intuitiva
 
 **Status:** ✅ Concluído  
-🔗 **[Demo](https://ecommerce-demo.vercel.app)** | 📂 **[Código](https://github.com/inariamonjane/ecommerce-fullstack)**
-
+🔗 **[Demo](https://emprestimo-demo.herokuapp.com)** | 📂 **[Código](https://github.com/InariaMonjane/Emprestimo)**
 </td>
 <td width="50%">
 
