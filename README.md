@@ -264,18 +264,6 @@ Soluções Tecnológicas Assistivas<br/>
 ---
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
-
-<div align="center">
-  <a href="https://github.com/InariaMonjane/Emprestimo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InariaMonjane&repo=Emprestimo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/inariamonjane/smart-agriculture-iot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inariamonjane&repo=smart-agriculture-iot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
-  </a>
-</div>
-
-<br/>
-
 <table>
 <tr>
 <td width="50%">
