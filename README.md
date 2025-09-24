@@ -102,12 +102,6 @@ print(f"Disponível para oportunidades: {True}")
 ---
 
 <h2 align="center">📊 Estatísticas GitHub</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=InariaMonjane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f39c12&text_color=c9d1d9&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InariaMonjane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InariaMonjane&custom_title=Inária's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=667eea&line=667eea&point=f39c12&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" />
 </div>
