@@ -297,6 +297,32 @@ Soluções Tecnológicas Assistivas<br/>
 🔗 **[Demo](https://sistema-de-automa-o-vnaq.bolt.host)** 
 
 </td>
+### 💰 **Sistema de Empréstimos**
+**Stack:** Python • Django • PostgreSQL • Bootstrap
+
+**Features:**
+- 💼 Sistema completo de gestão de empréstimos
+- 👥 Cadastro de clientes e avaliação de crédito
+- 📊 Dashboard com relatórios financeiros
+- 🔐 Autenticação e autorização robusta
+- 📱 Interface responsiva e intuitiva
+
+**Status:** ✅ Concluído  
+ 📂 **[Código](https://github.com/InariaMonjane/Emprestimo)**
+</td>
+### 💰 **Sistema de Empréstimos**
+**Stack:** Python • Django • PostgreSQL • Bootstrap
+
+**Features:**
+- 💼 Sistema completo de gestão de empréstimos
+- 👥 Cadastro de clientes e avaliação de crédito
+- 📊 Dashboard com relatórios financeiros
+- 🔐 Autenticação e autorização robusta
+- 📱 Interface responsiva e intuitiva
+
+**Status:** ✅ Concluído  
+ 📂 **[Código](https://github.com/InariaMonjane/Emprestimo)**
+</td>
 </tr>
 </table>
 
