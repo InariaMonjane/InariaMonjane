@@ -297,7 +297,7 @@ Soluções Tecnológicas Assistivas<br/>
 - 📱 Interface responsiva e intuitiva
 
 **Status:** ✅ Concluído  
-🔗 **[Demo](https://emprestimo-demo.herokuapp.com)** | 📂 **[Código](https://github.com/InariaMonjane/Emprestimo)**
+ 📂 **[Código](https://github.com/InariaMonjane/Emprestimo)**
 </td>
 <td width="50%">
 
@@ -312,7 +312,7 @@ Soluções Tecnológicas Assistivas<br/>
 - ☁️ Deploy em cloud
 
 **Status:** 🔄 Em desenvolvimento  
-🔗 **[Demo](https://iot-system.herokuapp.com)** | 📂 **[Código](https://github.com/inariamonjane/iot-automation)**
+🔗 **[Demo](https://sistema-de-automa-o-vnaq.bolt.host)** 
 
 </td>
 </tr>
