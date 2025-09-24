@@ -299,33 +299,15 @@ Soluções Tecnológicas Assistivas<br/>
 </td>
 <td width="50%">
 
-### 🎓 **Sistema de Gestão de Candidaturas Universitárias**
+### 🎓 **Sistema de Candidaturas Universitárias**
 **Stack:** Python • Django • PostgreSQL • Bootstrap
 
-**Descrição:**  
-Sistema digital completo desenvolvido para a apresentação do Trabalho de Final de Curso na Universidade Joaquim Chissano. Permite aos candidatos realizar todo o processo de admissão online, desde o registo até à consulta de resultados.
-
-**Funcionalidades:**
-
-**Para Candidatos:**
-- ✅ Registo e autenticação de utilizadores
-- ✅ Perfil completo de candidato com validações
-- ✅ Criação de candidaturas para diferentes cursos
-- ✅ Upload de documentos obrigatórios (PDF, JPG, PNG)
-- ✅ Sistema de pagamentos integrado (M-Pesa, E-Mola, Banco)
-- ✅ Acompanhamento de status em tempo real
-- ✅ Dashboard interativo com métricas
-- ✅ Consulta pública de resultados
-- ✅ Notificações automáticas por email
-
-**Para Administradores:**
-- ✅ Interface administrativa completa
-- ✅ Gestão de cursos, faculdades e centros de exame
-- ✅ Validação de documentos dos candidatos
-- ✅ Gestão de resultados e classificações
-- ✅ Relatórios e estatísticas detalhadas
-- ✅ Sistema de programação de exames
-- ✅ Exportação de dados para CSV
+**Features:**
+- 👥 Registo e autenticação de candidatos
+- 📄 Upload de documentos obrigatórios
+- 💰 Pagamentos integrados (M-Pesa, E-Mola, Banco)
+- 📊 Dashboard interativo e métricas
+- 🛠 Gestão de cursos, resultados e exames
 
 **Status:** ✅ Concluído  
 📂 **[Código](https://github.com/InariaMonjane/SGC-UJC)**
