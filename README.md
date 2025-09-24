@@ -266,50 +266,50 @@ Soluções Tecnológicas Assistivas<br/>
 <table>
   <tr>
     <td width="50%">
-      ### 💰 **Sistema de Empréstimos**
-      **Stack:** Python • Django • PostgreSQL • Bootstrap
+      💰 Sistema de Empréstimos
+      Stack: Python • Django • PostgreSQL • Bootstrap
       <br>
-      **Features:**
-      - 💼 Sistema completo de gestão de empréstimos
-      - 👥 Cadastro de clientes e avaliação de crédito
-      - 📊 Dashboard com relatórios financeiros
-      - 🔐 Autenticação e autorização robusta
-      - 📱 Interface responsiva e intuitiva
+      Features:
+      💼 Sistema completo de gestão de empréstimos
+      👥 Cadastro de clientes e avaliação de crédito
+      📊 Dashboard com relatórios financeiros
+      🔐 Autenticação e autorização robusta
+      📱 Interface responsiva e intuitiva
       <br>
-      **Status:** ✅ Concluído  
-      📂 **[Código](https://github.com/InariaMonjane/Emprestimo)**
+      Status: ✅ Concluído  
+      📂 [Código](https://github.com/InariaMonjane/Emprestimo)
     </td>
   </tr>
   <tr>
     <td width="50%">
-      ### 🤖 **Sistema de Automação IoT**
-      **Stack:** Python • TensorFlow • IoT • Machine Learning
+      🤖 Sistema de Automação IoT
+      Stack: Python • TensorFlow • IoT • Machine Learning
       <br>
-      **Features:**
-      - 📡 Sensores IoT integrados
-      - 🧠 Machine Learning para predições
-      - 📊 Dashboard de monitoramento
-      - 📱 App mobile para controle
-      - ☁️ Deploy em cloud
+      Features:
+      📡 Sensores IoT integrados
+      🧠 Machine Learning para predições
+      📊 Dashboard de monitoramento
+      📱 App mobile para controle
+      ☁️ Deploy em cloud
       <br>
-      **Status:** 🔄 Em desenvolvimento  
-      🔗 **[Demo](https://sistema-de-automa-o-vnaq.bolt.host)** 
+      Status: 🔄 Em desenvolvimento  
+      🔗 [Demo](https://sistema-de-automa-o-vnaq.bolt.host) 
     </td>
   </tr>
   <tr>
     <td width="50%">
-      ### 🎓 **Sistema de Candidaturas Universitárias**
-      **Stack:** Python • Django • PostgreSQL • Bootstrap
+      🎓 Sistema de Candidaturas Universitárias
+      Stack: Python • Django • PostgreSQL • Bootstrap
       <br>
-      **Features:**
-      - 👥 Registo e autenticação de candidatos
-      - 📄 Upload de documentos obrigatórios
-      - 💰 Pagamentos integrados (M-Pesa, E-Mola, Banco)
-      - 📊 Dashboard interativo e métricas
-      - 🛠 Gestão de cursos, resultados e exames
+      Features:
+      👥 Registo e autenticação de candidatos
+      📄 Upload de documentos obrigatórios
+      💰 Pagamentos integrados (M-Pesa, E-Mola, Banco)
+      📊 Dashboard interativo e métricas
+      🛠 Gestão de cursos, resultados e exames
       <br>
-      **Status:** ✅ Concluído  
-      📂 **[Código](https://github.com/InariaMonjane/SGC)**
+      Status: ✅ Concluído  
+      📂 [Código](https://github.com/InariaMonjane/SGC)
     </td>
   </tr>
 </table>
